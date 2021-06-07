@@ -1,2 +1,2 @@
-# digital_clock_project
+# Digital_clock_project
 It is  been  created  using  the  python  library  called  tkinter.
